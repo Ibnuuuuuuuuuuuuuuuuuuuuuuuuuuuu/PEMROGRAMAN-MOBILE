@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">OOTD List</string>
+
+    <!-- OOTD Titles -->
+    <string name="block_core">Block Core</string>
+    <string name="cottage_core">Cottage Core</string>
+    <string name="grunge">Grunge</string>
+    <string name="japanese_americana">Japanese Americana</string>
+    <string name="old_money">Old Money</string>
+    <string name="y2k">Y2K</string>
+
+    <!-- Descriptions -->
+    <string name="block_core_desc">Minimalist streetwear with bold geometric shapes and monochromatic colors</string>
+    <string name="cottage_core_desc">Rustic countryside aesthetic with vintage floral patterns</string>
+    <string name="grunge_desc">Rebellious 90s-inspired look with distressed fabrics</string>
+    <string name="japanese_americana_desc">East-meets-West workwear with Japanese craftsmanship</string>
+    <string name="old_money_desc">Timeless aristocratic style with premium fabrics</string>
+    <string name="y2k_desc">Early 2000s nostalgia with tech-inspired elements</string>
+
+    <!-- UI Elements -->
+    <string name="shop_button">SHOP</string>
+    <string name="detail_button">DETAIL</string>
+    <string name="shop_style_button">SHOP THIS STYLE</string>
+    <string name="men">Men</string>
+    <string name="women">Women</string>
+
+    <string name="list_ootd_content_description">Daftar outfit of the day (OOTD)</string>
+    <string name="empty_list_message">Tidak ada outfit yang tersedia</string>
+
+    <string name="ootd_image_content_description">Gambar outfit %1$s untuk %2$s</string>
+
+    <string name="recycler_content_description">Daftar OOTD</string>
+
+</resources>

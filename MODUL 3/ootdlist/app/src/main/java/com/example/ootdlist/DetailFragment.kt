@@ -11,7 +11,7 @@ import com.example.ootdlist.data.Ootd
 import com.example.ootdlist.databinding.FragmentDetailBinding
 import java.net.URLEncoder
 
-class DetailFragment : Fragment() {
+class   DetailFragment : Fragment() {
     private var _binding: FragmentDetailBinding? = null
     private val binding get() = _binding!!
 
