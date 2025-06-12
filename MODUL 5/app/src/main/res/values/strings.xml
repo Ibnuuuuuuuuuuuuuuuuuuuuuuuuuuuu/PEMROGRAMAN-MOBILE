@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My Movie App</string>
+
+    <string name="recycler_content_description">Daftar Film Populer</string>
+    <string name="empty_list_message">Tidak ada data film yang tersedia.</string>
+</resources>
